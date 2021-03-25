@@ -12,14 +12,13 @@
 - Baixar Ide Intellij
 - Instalar o plugin do cucumber
 
-  Passo 1: |![](../img/fileSettings.png)
+  Passo 1: |![](/img/fileSettings.png)
   Passo 2: |![](../img/pluginCucumber.png)
 
 - Atualizar a main class do cucumber
 
   Passo 1: |![](../img/runConfig.png)
   Passo 2: |![](../img/mainClass.png)
-  Passo 2: |![](http://i.imgur.com/mainClass.png)
 
   Obs: No passo 2 colocar no campo Main Class: io.cucumber.core.cli.main.
 
